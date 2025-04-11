@@ -32,6 +32,7 @@ import java.util.List;
  * secure configuration system, not hardcoded.
  * 
  * @author Ashay Koradia
+ * AndrewId: akoradia
  */
 public class NutritionixApiClient {
     private static final String API_URL = "https://trackapi.nutritionix.com/v2/natural/nutrients";

@@ -12,6 +12,7 @@ package ds.nutrition.model;
  * by the server.
  * 
  * @author Ashay Koradia
+ * AndrewId: akoradia
  */
 public class NutritionRequest {
     private String query;

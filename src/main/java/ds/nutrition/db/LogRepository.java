@@ -25,6 +25,7 @@ import java.util.*;
  * for dashboard displays and reports.
  * 
  * @author Ashay Koradia
+ * AndrewId: akoradia
  */
 public class LogRepository {
     private static final String COLLECTION_NAME = "logs";

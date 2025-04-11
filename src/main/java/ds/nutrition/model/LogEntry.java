@@ -15,6 +15,7 @@ import java.util.Date;
  * instances, making database operations more convenient.
  * 
  * @author Ashay Koradia
+ * AndrewId: akoradia
  */
 public class LogEntry {
     private String id;

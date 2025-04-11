@@ -14,6 +14,7 @@ import java.util.List;
  * including a calculation of total nutritional intake across all food items.
  * 
  * @author Ashay Koradia
+ * AndrewId: akoradia
  */
 public class NutritionResponse {
     private List<Food> foods;

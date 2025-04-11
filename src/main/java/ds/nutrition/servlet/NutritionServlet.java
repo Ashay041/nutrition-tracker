@@ -34,6 +34,7 @@ import java.util.UUID;
  * mapping conflicts.
  * 
  * @author Ashay Koradia
+ * AndrewId: akoradia
  */
 public class NutritionServlet extends HttpServlet {
     private final NutritionixApiClient apiClient = new NutritionixApiClient();

@@ -11,6 +11,7 @@ package ds.nutrition.model;
  * nutrition information in the dashboard.
  * 
  * @author Ashay Koradia
+ * AndrewId: akoradia
  */
 public class Food {
     private String foodName;
