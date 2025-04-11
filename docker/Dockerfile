@@ -1,5 +1,4 @@
-# Use a Linix image with Tomcat 10
-FROM tomcat:10.1.0-M5-jdk16-openjdk-slim-bullseye
+FROM tomcat:9.0-jdk21-openjdk
 
 # Remove default ROOT webapp
 RUN rm -rf /usr/local/tomcat/webapps/ROOT*
